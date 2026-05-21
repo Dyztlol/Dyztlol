@@ -17,7 +17,7 @@
 * 🔞 My age: **15 years**
 * 🌍 Languages: **German, English**
 * 🖥️ I’ve been programming for **2 years**
-* ⌨️ Programming languages I use: **Java, Kotlin, Python, C++, CSS, JavaScript, SQL, Gradle**
+* ⌨️ Programming languages I use: **Java, Kotlin, Python, C++, CSS, JavaScript, SQL, Gradle, HTml**
 * 🧠 Interests: **Web Development, Discord Bots, Backend Systems**
 * 🚀 Current projects: **Minecraft Plugins, Discord Bots**
 * 🎯 Goals: **Improve my skills, contribute to Open Source**
