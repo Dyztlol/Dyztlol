@@ -14,7 +14,6 @@
 <p align="left">
 </p> 
 
-* 🔭 I’m currently working on: **Client orders**
 * 🔞 My age: **15 years**
 * 🌍 Languages: **German, English**
 * 🖥️ I’ve been programming for **2 years**
