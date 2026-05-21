@@ -1,30 +1,29 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&letterSpacing=700&pause=1000&color=7EFF00&background=FF5BE800&center=true&vCenter=true&random=true&width=500&lines=dyztlol" />
-  <p><b>Minecraft developer</b></p>
-  <p><i>· Java · Plugins · Configs · </i></p>
-<div align="center">
-  <a href="https://discord.com/users/1415785614695071877">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="25" />
+<h1 align="center">Hi 👋, I'm dyztlol</h1> 
+<h3 align="center">A creative young FullStack Java Developer from Germany</h3> 
+
+<p align="center">
+  <a href="https://github.com/dyztlol">
+    <img src="https://img.shields.io/badge/GitHub-dyztlol-181717?style=for-the-badge&logo=github" />
   </a>
-</div>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin" />
-  <img width="12" />
-</div>
+  
+  <a href="https://discord.com/users/dyztlol">
+    <img src="https://img.shields.io/badge/Discord-dyztlol-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="maven" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle" />
-  <img width="12" />
-</div>
+<p align="left">
+</p> 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" />
-  <img width="12" />
-</div>
+* 🔭 I’m currently working on: **Client orders**
+* 🔞 My age: **15 years**
+* 🌍 Languages: **German, English**
+* 🖥️ I’ve been programming for **2 years**
+* ⌨️ Programming languages I use: **Java, Kotlin, Python, C++, CSS, JavaScript, SQL, Gradle**
+* 🧠 Interests: **Web Development, Discord Bots, Backend Systems**
+* 🚀 Current projects: **Minecraft Plugins, Discord Bots**
+* 🎯 Goals: **Improve my skills, contribute to Open Source**
+* 💡 Motivation: **I love solving problems and turning ideas into real projects**
+* ⚙️ Working style: **Learn fast, experiment a lot, and constantly improve projects**
+* 📚 Currently learning: **Better architecture, performance optimization, and clean code**
+* ⚡️ What I want to do here: **Improve my programming skills with a large community and help other people**
+* 📫 If you have work or questions, contact me on Discord: **dyztlol**
