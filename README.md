@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm dyztlol</h1> 
-<h3 align="center">A creative young FullStack Java Developer from Germany</h3> 
+<h3 align="center">A creative young FullStack Developer from Germany</h3> 
 
 <p align="center">
   <a href="https://github.com/dyztlol">
@@ -17,9 +17,9 @@
 * 🔞 My age: **15 years**
 * 🌍 Languages: **German, English**
 * 🖥️ I’ve been programming for **2 years**
-* ⌨️ Programming languages I use: **Java, Kotlin, Python, C++, CSS, JavaScript, SQL, Gradle, HTml**
+* ⌨️ Programming languages I use: **Python, C++, CSS, JavaScript**
 * 🧠 Interests: **Web Development, Discord Bots, Backend Systems**
-* 🚀 Current projects: **Minecraft Plugins, Discord Bots**
+* 🚀 Current projects: **Discord Bots**
 * 🎯 Goals: **Improve my skills, contribute to Open Source**
 * 💡 Motivation: **I love solving problems and turning ideas into real projects**
 * ⚙️ Working style: **Learn fast, experiment a lot, and constantly improve projects**
